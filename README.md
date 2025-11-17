@@ -21,7 +21,7 @@ A Flutter & Dart enthusiast 💙
 [<img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="32" height="32">](https://flutter.dev/)
 [<img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="32" height="32">](https://dart.dev/)
 [<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="32" height="32">](https://python.org/)
 [<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="32" height="32">](https://reactjs.org/)
