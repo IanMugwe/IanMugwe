@@ -17,11 +17,14 @@ A Flutter & Dart enthusiast 💙
 
 🚀 Tech Stack
 
-[![Flutter](https://img.shields.io/badge/-?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/-2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-[![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=white)](https://python.org/)
-[![React](https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+### Tech Stack (icons only, no background)
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="24" height="24">](https://flutter.dev/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="24" height="24">](https://dart.dev/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="24" height="24">](https://python.org/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="24" height="24">](https://reactjs.org/)
+
 
