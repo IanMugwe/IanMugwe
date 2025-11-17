@@ -11,13 +11,12 @@ A Flutter & Dart enthusiast 💙
 
 🌐 Socials
 
-[<img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="32" height="32">](https://x.com/Mugwe_IanDev)
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32">](https://www.linkedin.com/in/ian-mugwe-3577b636b)
+[<img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="28" height="28">](https://x.com/Mugwe_IanDev)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28">](https://www.linkedin.com/in/ian-mugwe-3577b636b)
 
 
 
 🚀 Tech Stack
-
 
 [<img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="32" height="32">](https://flutter.dev/)
 [<img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="32" height="32">](https://dart.dev/)
