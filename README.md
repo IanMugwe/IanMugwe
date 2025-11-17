@@ -11,22 +11,22 @@ A Flutter & Dart enthusiast 💙
 
 🌐 Socials
 
+[<img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="32" height="32">](https://x.com/Mugwe_IanDev)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32">](https://www.linkedin.com/in/ian-mugwe-3577b636b)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="32" height="32">](https://x.com/Mugwe_IanDev)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">](https://www.linkedin.com/in/ian-mugwe-3577b636b)
 
 
 🚀 Tech Stack
 
 
+[<img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="32" height="32">](https://flutter.dev/)
+[<img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="32" height="32">](https://dart.dev/)
+[<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="32" height="32">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="32" height="32">](https://python.org/)
+[<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="32" height="32">](https://reactjs.org/)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="24" height="24" style="color:#02569B;">](https://flutter.dev/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="24" height="24" style="color:#0175C2;">](https://dart.dev/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="24" height="24" style="color:#E34F26;">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="24" height="24" style="color:#1572B6;">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="24" height="24" style="color:#F7DF1E;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="24" height="24" style="color:#3776AB;">](https://python.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="24" height="24" style="color:#61DAFB;">](https://reactjs.org/)
 
 
 
