@@ -11,8 +11,9 @@ A Flutter & Dart enthusiast 💙
 
 🌐 Socials
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mugwe_IanDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ian-mugwe-3577b636b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap))
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X" width="32" height="32">](https://x.com/Mugwe_IanDev)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">](https://www.linkedin.com/in/ian-mugwe-3577b636b)
 
 
 🚀 Tech Stack
