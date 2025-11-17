@@ -1,9 +1,9 @@
 Hi 👋, I'm Ian Mugwe
-A Flutter & Dart enthusiast 💙
+A Software Developer
 
-🔭 I’m currently working on Projects at Yohpal International Limited.
+🔭 I’m currently working as a mobile developer at Yohpal International Limited.
 
-🌱 I’m currently exploring Flutter & Dart & Software Architectures (deep)
+🌱 I’m currently exploring Supabase and backend stack  (deep)
 
 👯 I’m looking to collaborate on Flutter projects
 
