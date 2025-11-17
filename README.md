@@ -17,7 +17,7 @@ A Flutter & Dart enthusiast 💙
 
 🚀 Tech Stack
 
-### Tech Stack (icons only, no background)
+
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="24" height="24">](https://flutter.dev/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" alt="Dart" width="24" height="24">](https://dart.dev/)
@@ -26,5 +26,6 @@ A Flutter & Dart enthusiast 💙
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="24" height="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="24" height="24">](https://python.org/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="24" height="24">](https://reactjs.org/)
+
 
 
