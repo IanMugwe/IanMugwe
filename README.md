@@ -18,7 +18,6 @@ A Flutter & Dart enthusiast 💙
 🚀 Tech Stack
 
 [![Flutter](https://img.shields.io/badge/-?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Flutter](https://img.shields.io/badge/-?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/-2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
