@@ -21,33 +21,39 @@
 </a>
 <a href="https://twitter.com/Ipiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
+</a></p>
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 <p>
-I’m a <b>Flutter Developer</b> focused on building <b>beautiful, high-performance cross-platform apps</b> for Android, iOS, and Web.
+I’m a <b>Software Developer</b> currently focused on building <b>beautiful, high-performance cross-platform apps</b> for Android, iOS, and Web.
 </p>
-
-<ul>
-  <li>📱 Specialized in <b>Flutter & Dart</b></li>
-  <li>🎨 Passionate about <b>clean UI, smooth animations, and UX</b></li>
-  <li>⚡ Experience with <b>Firebase, REST APIs, state management</b></li>
-  <li>🛠️ Strong understanding of <b>app architecture & performance optimization</b></li>
-  <li>🚀 Currently building and scaling Flutter apps</li>
-</ul>
-
 <p>
-📍 Calgary, Alberta <br/>
-🎯 Goal: Build impactful mobile experiences & contribute to open-source
-</p>
-
+  Languages & Frameworks
+  </p>
+  <ul>
+  <li> Flutter & Dart
+  <li> React </li>
+  <li> HTML, CSS & JavaScript</li>
+  <li> Python </li>
+</ul>
+<p>
+  Database & APIs
+  </p>
+<ul>
+  <li> Firebase, REST APIs</li>
+  <li> Supabase </li>
+  <li> SQL </li>
+</ul>
+<p>
+  Version Control
+  </p>
+<ul>
+  <li> Git /li>
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+</ul>
+  
+<h2> 🚀 &nbsp; Tools I Have Used and Learned</h2>
+<p align="center">
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/> -->
@@ -76,3 +82,5 @@ I’m a <b>Flutter Developer</b> focused on building <b>beautiful, high-performa
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMugwe)](https://github.com/IanMugwe/github-readme-stats)
