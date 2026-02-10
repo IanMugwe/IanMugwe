@@ -2,76 +2,59 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and Build!💬
-</h1>
+<h1 align="center">Let's Connect and Build 💬</h1>
 
 <p align="center">
-<a href="https://ian-dev-portfolio-pi.vercel.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/ian-mugwe-3577b636b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+  <a href="https://ian-dev-portfolio-pi.vercel.app/">
+    <img height="45" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b">
+    <img height="45" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
 </p>
-<h2>  &nbsp;About Me</h2>
 
-<p>
-I’m a <b>Software Developer</b> currently focused on building <b>beautiful, high-performance cross-platform apps</b> for Android, iOS, and Web.
-</p>
-<p>
-  Languages & Frameworks
-  </p>
-  <ul>
-  <li> Flutter & Dart
-  <li> React </li>
-  <li> HTML, CSS & JavaScript</li>
-  <li> Python </li>
-</ul>
-<p>
-  Database & APIs
-  </p>
-<ul>
-  <li> Firebase, REST APIs</li>
-  <li> Supabase </li>
-  <li> SQL </li>
-</ul>
-<p>
-  Version Control
-  </p>
-<ul>
-  <li> Git /li>
-  
-</ul>
-  
-<h2> 🚀 &nbsp; Tools I Have Used and Learned</h2>
-<p align="center">
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" /> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>    -->
-</p>
+---
+
+## 💫 About Me
+
+I’m a software engineer with experience building **consumer-focused mobile solutions**, primarily using **Flutter**, with ongoing experience in **React Native**. I work in **startup environments**, focusing on **high-performance**, **scalable**, and **well-architected** applications.
+
+I’ve published a production app, **Yohpal**, available on the **Google Play Store**, and enjoy taking products from idea to deployment. I also have hands-on experience with backend and cloud technologies including **Firebase**, **Supabase**, **Redis**, **SQL**, and **Google Cloud Platform**, enabling full end-to-end development.
+
+Currently a **Flutter Developer**, I’m open to **open-source contributions** and seeking new opportunities as a **Mobile Developer** or **Mobile/Backend Engineer**.
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IanMugwe)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ianmugwe656@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=IanMugwe&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=IanMugwe&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMugwe&theme=merko&hide_border=false&layout=compact)
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=IanMugwe&icon=0&color=0"/>
+</p>
