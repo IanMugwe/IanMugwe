@@ -2,11 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<div align="center" style="max-width: 760px; margin: auto;">
+<h2 align="center">Let’s Connect and Build 💬</h2>
+
+<div align="center" style="max-width: 750px; margin: auto;">
 
 ## 💫 About Me
 
-I’m a software engineer focused on building **consumer-facing mobile applications**, primarily using **Flutter**, with ongoing experience in **React Native**. I work in startup environments where I prioritize **performance**, **scalable architecture**, and clean, maintainable code.
+I’m a software engineer focused on building **consumer-facing mobile applications**, primarily using **Flutter**, with ongoing experience in **React Native**. I work in startup environments, emphasizing **performance**, **scalable architecture**, and clean implementation.
 
 I’ve shipped a production app, **Yohpal**, available on the **Google Play Store**, and enjoy taking products from idea to deployment. I also work across backend and cloud systems using **Firebase**, **Supabase**, **Redis**, **SQL**, and **Google Cloud Platform** to deliver end-to-end solutions.
 
@@ -14,9 +16,9 @@ Currently a **Flutter Developer**, I’m open to **open-source contributions** a
 
 </div>
 
----
+<br/>
 
-<div align="center" style="max-width: 760px; margin: auto;">
+<div align="center" style="max-width: 750px; margin: auto;">
 
 ## 🌐 Socials
 
@@ -32,50 +34,40 @@ Currently a **Flutter Developer**, I’m open to **open-source contributions** a
 
 </div>
 
----
+<br/>
 
-<div align="center" style="max-width: 760px; margin: auto;">
+<div align="center" style="max-width: 750px; margin: auto;">
 
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 </div>
 
----
+<br/>
 
-<div align="center" style="max-width: 760px; margin: auto;">
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=IanMugwe&show_icons=true&include_all_commits=true&count_private=true&theme=merko"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=IanMugwe&show_icons=true&count_private=true&include_all_commits=true&theme=merko" />
 
-<br/><br/>
+<br/>
 
-<!-- Streak Stats -->
-<img
-  src="https://streak-stats.demolab.com?user=IanMugwe&theme=merko"
-/>
+<img src="https://streak-stats.demolab.com?user=IanMugwe&theme=merko" />
 
-<br/><br/>
+<br/>
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMugwe&layout=compact&theme=merko"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMugwe&layout=compact&theme=merko" />
 
 </div>
 
