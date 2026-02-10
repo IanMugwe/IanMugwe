@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h2 align="center">Let’s Connect and Build 💬</h2>
+<h2>Let’s Connect and Build 💬</h2>
 
-<p align="center">
+<p>
   <a href="https://ian-dev-portfolio-pi.vercel.app/">
     <img height="42" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<div align="center" style="max-width: 750px; margin: auto;">
+<div style="max-width: 750px;">
 
 ## 💫 About Me
 
@@ -28,11 +28,11 @@ Currently a **Flutter Developer**, I’m open to **open-source contributions** a
 
 <br/>
 
-<div align="center" style="max-width: 750px; margin: auto;">
+<div style="max-width: 750px;">
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
@@ -47,13 +47,13 @@ Currently a **Flutter Developer**, I’m open to **open-source contributions** a
 
 <br/>
 
-<div align="center">
+<div>
 
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=IanMugwe&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=IanMugwe&theme=merko&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=IanMugwe&theme=merko" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMugwe&theme=merko&hide_border=false&layout=compact" />
 
@@ -63,6 +63,6 @@ Currently a **Flutter Developer**, I’m open to **open-source contributions** a
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://visitcount.itsvg.in/api?id=IanMugwe&icon=0&color=0"/>
 </p>
