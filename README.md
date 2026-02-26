@@ -19,7 +19,7 @@ Building products that deliver real user value, while continuously improving sca
 
 ---
 
-## 📱 Production Experience
+## 📱 Projects
 
 <table>
   <tr>
@@ -30,16 +30,18 @@ Building products that deliver real user value, while continuously improving sca
           <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
         </a>
       </p>
-      <p align="center">
+      <p align="left">
         Production mobile platform with <strong>400+ active users</strong> and a <strong>4.9⭐ rating</strong>.
       </p>
-      <p align="center">
+      <p align="left">
         Development in progress and new modules coming soon.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
+        
       </p>
     </td>
     <td width="50%" valign="top">
@@ -49,10 +51,10 @@ Building products that deliver real user value, while continuously improving sca
           <img src="https://img.shields.io/badge/Live%20Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
         </a>
       </p>
-      <p align="center">
+      <p align="left">
         Web platform connecting users to healing resources and services.
       </p>
-      <p align="center">
+      <p align="left">
         Contributed to frontend architecture and feature implementation within an existing production codebase.
       </p>
       <p align="center">
@@ -84,10 +86,12 @@ Building products that deliver real user value, while continuously improving sca
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanMugwe&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanMugwe&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+  <!-- GitHub Stats Card (centered) -->
+  <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
+  <!-- Top Languages Card (centered) -->
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 💡 Philosophy
