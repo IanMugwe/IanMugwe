@@ -87,14 +87,13 @@ Building products that deliver real user value, while continuously improving sca
 <p align="center">
   <table>
     <tr>
-      <!-- Left column: Stats + Contribution Graph -->
+      <!-- Left column: Contribution Graph -->
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" /><br><br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanMugwe&theme=tokyonight&hide_border=false" alt="Contribution Graph" />
       </td>
-      <!-- Right column: Top Languages -->
+      <!-- Right column: Top Languages (Pie Chart) -->
       <td width="50%" valign="top" style="padding-left: 20px;">
-        <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+        <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=IanMugwe&layout=pie&theme=tokyonight&hide_border=false" alt="Top Languages Pie" />
       </td>
     </tr>
   </table>
