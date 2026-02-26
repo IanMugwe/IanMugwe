@@ -92,7 +92,6 @@ Building products that deliver real user value, while continuously improving sca
         <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" /><br><br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanMugwe&theme=tokyonight&hide_border=false" alt="Contribution Graph" />
       </td>
-
       <!-- Right column: Top Languages -->
       <td width="50%" valign="top" style="padding-left: 20px;">
         <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
