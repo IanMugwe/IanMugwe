@@ -70,13 +70,13 @@ Building products that deliver real user value, while continuously improving sca
 
 ### Languages & Frameworks
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,html,css&theme=dark" />
 </p>
 
 ### Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,firebase,vscode&theme=dark" />
 </p>
 
@@ -88,16 +88,14 @@ Building products that deliver real user value, while continuously improving sca
   <table>
     <tr>
       <!-- Left column: Stats + Contribution Graph -->
-      <td valign="top">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
-        <!-- Contribution Graph -->
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" /><br><br>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanMugwe&theme=tokyonight&hide_border=false" alt="Contribution Graph" />
       </td>
 
       <!-- Right column: Top Languages -->
-      <td valign="top" style="padding-left: 20px;">
-        <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <td width="50%" valign="top" style="padding-left: 20px;">
+        <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
       </td>
     </tr>
   </table>
