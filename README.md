@@ -1,105 +1,123 @@
+Perfect! I’ve combined your previous upgraded README layout with your new **Tech Stack section with icons** and the **project cards**. The README is recruiter-friendly, visually appealing, and has a futuristic wave design.
+
+Here’s the fully updated version:
+
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00D9FF&height=170&section=header&text=Ian%20Mugwe&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Flutter+Mobile+Developer+%7C+Production+Experience;Scalable+App+Builder;Designing+Systems+That+Evolve;Engineer+Focused+on+Clean+Architecture" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Flutter+Mobile+Developer+%7C+Production+Experience;Scalable+App+Builder;Designing+Systems+That+Evolve;Engineer+Focused+on+Clean+Architecture" />
   </a>
+</p>
+
+<p align="center">
+  📍 Nairobi, Kenya &nbsp; • &nbsp; 🌍 Open to Remote / Hybrid / On-site
 </p>
 
 ---
 
-## 🚀 Flutter Mobile Developer | Production Experience
+## 💫 About Me
 
-Based in Nairobi, Kenya 🇰🇪  
-Open to Remote • Hybrid • On-site  
+I build production-ready mobile applications with a strong focus on scalability, clarity, and long-term maintainability.
 
-I build production-ready mobile applications with a strong focus on scalability, structure, and long-term maintainability.
+With 3+ years of Flutter experience and hands-on production ownership, I approach development with architectural thinking — balancing speed of delivery with system structure.
 
-With 3+ years of Flutter experience and hands-on ownership in live environments, I approach development with architectural thinking — balancing delivery speed with system clarity.
-
-> I believe well-structured code compounds in value over time.
+> Well-structured systems scale. Well-written code compounds.
 
 ---
 
-## 📱 Featured Projects
+## 🧰 Tech Stack
 
-### 📲 Yohpal — Mobile Platform (Android)
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-Production mobile application serving real users in a live business environment.
-
-- 👥 400+ active users  
-- ⭐ 4.9 rating on Google Play  
-- 🏗 Led Android development from implementation to production release  
-- 🧩 Designed scalable Firestore schema for evolving feature sets  
-- 🗺 Implemented reliable real-time map tracking  
-- 🛠 Built client module for job creation & freelancer discovery  
-- 🤝 Collaborated directly with product stakeholders  
-
-This project strengthened my experience in feature modularity, backend data modeling, and production reliability.
-
----
-
-### 🌿 Mizizi Healing — Web Platform (Contributor)
-
-A web platform connecting users to healing services and resources.
-
-- ⚛ Contributed to frontend development using React  
-- 🌐 Improved UI structure and feature implementation  
-- 🤝 Worked within an existing codebase and team structure  
-
----
-
-## 🧠 Technical Expertise
-
-### 📱 Mobile Development
-Flutter (3+ years) • REST API Integration • Authentication Flows • Offline Caching • Modular Feature Structure  
-
-### 🏗 Architecture & Structure
-Feature-based organization • Firestore data modeling • Backend-aware UI design • Scalable state planning  
-
-### 🗄 Backend & Data
-Firebase Auth • Firestore • Supabase • SQL  
+### 🛠 Tools & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
-## 🏗 Professional Ownership
+## 🏗 Featured Projects
 
-Though early in my professional career (1+ year), I’ve operated with ownership responsibilities:
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📲 Yohpal</h3>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.main.yohpal">
+          <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Production mobile platform with <strong>400+ active users</strong> and a <strong>4.9⭐ rating</strong>.
+      </p>
+      <p align="center">
+        Led Android release, designed scalable Firestore schema, implemented real-time map tracking, and built client job/freelancer module.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌿 Mizizi Healing</h3>
+      <p align="center">
+        <a href="https://mizizihealing.com/">
+          <img src="https://img.shields.io/badge/Live%20Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Web platform connecting users to healing resources and services.
+      </p>
+      <p align="center">
+        Contributed to frontend architecture and feature implementation within an existing production codebase.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Making architectural decisions for new features  
-- Translating product requirements into technical tasks  
+---
+
+## 🧠 Professional Ownership
+
+- Architectural decision-making for new features  
+- Firestore data modeling for scalability  
 - Mentoring junior contributors  
-- Communicating directly with stakeholders  
-- Managing Android production deployment  
+- Direct collaboration with product stakeholders  
+- Managed Android deployment to production  
 
 ---
 
 ## 🌱 Currently Developing
 
-Actively sharpening skills in:
-
 - Clean Architecture implementation  
 - Advanced state management patterns  
 - System design fundamentals  
-- Performance optimization strategies  
+- Performance optimization  
 - Production-grade engineering standards  
-
-My goal is to continuously evolve into a high-impact mobile engineer capable of designing resilient systems at scale.
-
----
-
-## 🛠 Core Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-</p>
 
 ---
 
@@ -117,12 +135,29 @@ My goal is to continuously evolve into a high-impact mobile engineer capable of 
 
 ## 🤝 Let’s Build Meaningful Software
 
-I’m interested in working with teams that value clarity, thoughtful architecture, and continuous improvement.
-
-If you're building mobile products that aim for long-term impact — I’d be excited to contribute.
+I’m interested in working with teams that value thoughtful architecture, continuous learning, and building products that create real-world impact.
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0F2027&height=120&section=footer"/>
 </p>
+```
+
+---
+
+✅ **What this README does now:**
+
+* Futuristic header wave + typing animation
+* Clean, recruiter-friendly **About Me** section
+* Modern **Tech Stack** with badges and icons
+* **Project cards** showing metrics and impact
+* Minimal, readable GitHub snapshot (stats + top langs)
+* Strong “ownership + growth” narrative
+* Futuristic footer wave, professional feel
+
+---
+
+If you want, I can also **add subtle animated icons to your project cards**, making the projects feel even more “interactive/futuristic” like a premium portfolio.
+
+Do you want me to add that next?
