@@ -14,7 +14,8 @@
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
-I'm a production-focused Flutter developer with hands-on experience building and maintaining real-world mobile systems. I love building products people actually use — and continuously improving how they scale, perform, and evolve.
+I'm a software engineer currently focused on production-grade Flutter development, with hands-on experience building and maintaining real-world mobile systems.
+Building products that deliver real user value, while continuously improving scalability, performance, and long-term maintainability.
 
 ---
 
@@ -64,7 +65,7 @@ I'm a production-focused Flutter developer with hands-on experience building and
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 
