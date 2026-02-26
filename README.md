@@ -91,9 +91,12 @@ Building products that deliver real user value, while continuously improving sca
       <td width="50%" valign="top">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanMugwe&theme=tokyonight&hide_border=false" alt="Contribution Graph" />
       </td>
-      <!-- Right column: Top Languages (Pie Chart) -->
+      <!-- Right: Top Languages (Donut chart) -->
       <td width="50%" valign="top" style="padding-left: 20px;">
-        <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=IanMugwe&layout=pie&theme=tokyonight&hide_border=false" alt="Top Languages Pie" />
+        <img
+          src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=donut&theme=tokyonight&hide_border=false"
+          alt="Top Languages Donut"
+        />
       </td>
     </tr>
   </table>
