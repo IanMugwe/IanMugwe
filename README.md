@@ -41,7 +41,6 @@ Building products that deliver real user value, while continuously improving sca
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
         <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-        
       </p>
     </td>
     <td width="50%" valign="top">
@@ -86,13 +85,23 @@ Building products that deliver real user value, while continuously improving sca
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <!-- GitHub Stats Card (centered) -->
-  <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <!-- Left column: Stats + Contribution Graph -->
+      <td valign="top">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.zcy.dev/api?username=IanMugwe&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
+        <!-- Contribution Graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanMugwe&theme=tokyonight&hide_border=false" alt="Contribution Graph" />
+      </td>
 
-  <!-- Top Languages Card (centered) -->
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <!-- Right column: Top Languages -->
+      <td valign="top" style="padding-left: 20px;">
+        <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=IanMugwe&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
----
 
 ## 💡 Philosophy
 
