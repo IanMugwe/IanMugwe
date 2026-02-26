@@ -33,7 +33,7 @@ I'm a production-focused Flutter developer with hands-on experience building and
         Production mobile platform with <strong>400+ active users</strong> and a <strong>4.9⭐ rating</strong>.
       </p>
       <p align="center">
-        Led Android release, designed scalable Firestore schema, implemented real-time map tracking, and built client job/freelancer module.
+        Development in progress and new modules coming soon.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -69,13 +69,13 @@ I'm a production-focused Flutter developer with hands-on experience building and
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,python,django,php,laravel,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,html,css&theme=dark" />
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,firebase,aws,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,firebase,vscode&theme=dark" />
 </p>
 
 ---
@@ -83,15 +83,15 @@ I'm a production-focused Flutter developer with hands-on experience building and
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanMugwe&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMugwe&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IanMugwe&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanMugwe&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 💡 Personality Line
+## 💡 Philosophy
 
-> I love building products people actually use, with clean, scalable code.
+> Software is a lens through which we shape ideas into reality, one line of code at a time.
 
 ---
 
