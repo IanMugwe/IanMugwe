@@ -9,15 +9,17 @@
 </p>
 
 ---
-## About Ian <span style="float:right;">
-  <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="color:#0A66C2; fill:#0A66C2;"/>
-  </a>
-  <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank" style="margin-left:8px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" alt="Portfolio" width="24" style="color:#000000; fill:#000000;"/>
-  </a>
-</span>
-
+<h2 style="display:flex; justify-content:space-between; align-items:center;">
+  About Ian
+  <span>
+    <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="color:#0A66C2; fill:#0A66C2;"/>
+    </a>
+    <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank" style="margin-left:8px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" alt="Portfolio" width="24" style="color:#000000; fill:#000000;"/>
+    </a>
+  </span>
+</h2>
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
