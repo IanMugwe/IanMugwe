@@ -9,14 +9,8 @@
 </p>
 
 ---
+## About Ian | <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24"/></a> <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" alt="Portfolio" width="24"/></a> 
 
-## About Ian 
-<a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank" style="float:right; margin-left:8px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24"/>
-</a>
-<a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank" style="float:right;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" alt="Portfolio" width="24"/>
-</a>
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
