@@ -9,17 +9,15 @@
 </p>
 
 ---
-<h2 align="left">
-  <span>About Ian</span>
-  <span style="float:right;">
-    <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="fill:#00D9FF;"/>
-    </a>
-    <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank" style="margin-left:12px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" alt="Portfolio" width="24" style="fill:#00D9FF;"/>
-    </a>
-  </span>
-</h2>
+<td align="right">
+  <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</td>
+
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
 I'm a software engineer currently focused on production-grade Flutter development, with hands-on experience building and maintaining real-world mobile systems.
