@@ -7,14 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer;Scalable+App+Builder;Growing+Into+World-Class+Engineering" />
   </a>
 </p>
+--- 
 ## 👋 About Me
 
-Hi, I’m **Ian Mugwe**, a passionate software engineer based in **Nairobi, Kenya 🇰🇪**.  
-I specialize in **Flutter mobile development** and building scalable, maintainable applications that deliver real user value.  
 
-I enjoy turning ideas into products while focusing on **performance, scalability, and long-term maintainability**.  
-
-Open to **Remote**, **Hybrid**, and **On-site** opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
