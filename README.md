@@ -12,11 +12,11 @@
   <span style="float:left; font-size:24px; font-weight:600;">About Ian</span>
   <span style="float:right;">
     <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&height=35" />
     </a>
     &nbsp;
     <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=40&height=35" />
     </a>
   </span>
   <br style="clear:both;" />
@@ -29,7 +29,7 @@ Building products that deliver real user value, while continuously improving sca
 
 ---
 
-## 📱 Projects
+##  Projects
 
 <table>
   <tr>
