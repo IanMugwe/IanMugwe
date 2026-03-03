@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer;Scalable+App+Builder;Growing+Into+World-Class+Engineering" />
   </a>
 </p>
---- 
 
 ##  About Ian
 
@@ -31,7 +30,7 @@ Building products that deliver real user value, while continuously improving sca
   </a>
 </p>
 
-<hr style="border:1px solid #00D9FF; margin-top:10px; margin-bottom:20px;"/>
+<!-- <hr style="border:1px solid #00D9FF; margin-top:10px; margin-bottom:20px;"/> -->
 
 ---
 
