@@ -9,15 +9,21 @@
 </p>
 
 ---
-# About Ian 
-<td align="right">
-  <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-</td>
+<table width="100%" style="border:0; border-collapse:collapse;">
+  <tr>
+    <td align="left" style="border:0; padding:0;">
+      <h1 style="margin:0; padding:0;">About Ian</h1>
+    </td>
+    <td align="right" style="border:0; padding:0;">
+      <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+      </a>
+      <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
@@ -26,7 +32,7 @@ Building products that deliver real user value, while continuously improving sca
 
 ---
 
-## 📱 Projects
+## Projects
 
 <table>
   <tr>
