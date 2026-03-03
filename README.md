@@ -9,14 +9,21 @@
 </p>
 
 ---
-<h2 style="display:flex; justify-content:space-between; align-items:center;">
-  About Ian
-  <span>
+<h2 style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <span>About Ian</span>
+
+  <span style="display:flex; align-items:center; gap:15px;">
     <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="color:#0A66C2; fill:#0A66C2;"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+           alt="LinkedIn"
+           width="28"
+           style="fill:#0A66C2;" />
     </a>
-    <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank" style="margin-left:8px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" alt="Portfolio" width="24" style="color:#000000; fill:#000000;"/>
+    <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg"
+           alt="Portfolio"
+           width="28"
+           style="fill:#000000;" />
     </a>
   </span>
 </h2>
