@@ -7,20 +7,30 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer;Scalable+App+Builder;Growing+Into+World-Class+Engineering" />
   </a>
 </p>
+## 👋 About Me
 
-<p>
-  <span style="float:left; font-size:24px; font-weight:600;">About Ian</span>
-  <span style="float:right;">
-    <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </span>
-  <br style="clear:both;" />
+Hi, I’m **Ian Mugwe**, a passionate software engineer based in **Nairobi, Kenya 🇰🇪**.  
+I specialize in **Flutter mobile development** and building scalable, maintainable applications that deliver real user value.  
+
+I enjoy turning ideas into products while focusing on **performance, scalability, and long-term maintainability**.  
+
+Open to **Remote**, **Hybrid**, and **On-site** opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&height=35" />
+  </a>
+  &nbsp;
+  <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=40&height=35" />
+  </a>
+  &nbsp;
+  <a href="mailto:ian@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40&height=35" />
+  </a>
 </p>
+
+<hr style="border:1px solid #00D9FF; margin-top:10px; margin-bottom:20px;"/>
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
