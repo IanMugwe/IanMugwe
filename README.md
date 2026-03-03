@@ -8,8 +8,13 @@
   </a>
 </p>
 --- 
-## 👋 About Me
 
+##  About Ian
+
+Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
+
+I'm a software engineer currently focused on production-grade Flutter development, with hands-on experience building and maintaining real-world mobile systems.
+Building products that deliver real user value, while continuously improving scalability, performance, and long-term maintainability.
 
 
 <p align="center">
@@ -27,11 +32,6 @@
 </p>
 
 <hr style="border:1px solid #00D9FF; margin-top:10px; margin-bottom:20px;"/>
-
-Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
-
-I'm a software engineer currently focused on production-grade Flutter development, with hands-on experience building and maintaining real-world mobile systems.
-Building products that deliver real user value, while continuously improving scalability, performance, and long-term maintainability.
 
 ---
 
