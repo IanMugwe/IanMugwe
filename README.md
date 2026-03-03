@@ -8,25 +8,19 @@
   </a>
 </p>
 
----
-<h2 style="display:flex; justify-content:space-between; align-items:center; width:100%;">
-  <span>About Ian</span>
-
-  <span style="display:flex; align-items:center; gap:15px;">
+<p>
+  <span style="float:left; font-size:24px; font-weight:600;">About Ian</span>
+  <span style="float:right;">
     <a href="https://www.linkedin.com/in/ian-mugwe-3577b636b/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
-           alt="LinkedIn"
-           width="28"
-           style="fill:#0A66C2;" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp;
     <a href="https://ian-dev-portfolio-pi.vercel.app/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg"
-           alt="Portfolio"
-           width="28"
-           style="fill:#000000;" />
+      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </span>
-</h2>
+  <br style="clear:both;" />
+</p>
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
