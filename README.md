@@ -21,7 +21,7 @@ Building products that deliver real user value, while continuously improving sca
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&height=35" />
   </a>
   &nbsp;
-  <a href="https://https://ianmugwe.netlify.app//" target="_blank">
+  <a href="https://ianmugwe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=40&height=35" />
   </a>
   &nbsp;
