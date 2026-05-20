@@ -8,7 +8,7 @@
   </a>
 </p>
 
-##  About Ian
+##  About
 
 Based in Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Open to Remote • Hybrid • On-site Opportunities
 
