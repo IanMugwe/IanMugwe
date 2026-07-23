@@ -35,7 +35,7 @@ Building products that deliver real user value, while continuously improving sca
 ---
 
 ##  Projects
-
+<! --
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -78,7 +78,7 @@ Building products that deliver real user value, while continuously improving sca
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 ## Tech Stack
