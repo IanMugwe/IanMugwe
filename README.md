@@ -33,9 +33,9 @@ Building products that deliver real user value, while continuously improving sca
 <!-- <hr style="border:1px solid #00D9FF; margin-top:10px; margin-bottom:20px;"/> -->
 
 ---
-
-##  Projects
 <!--
+##  Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
